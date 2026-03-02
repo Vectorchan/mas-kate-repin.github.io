@@ -7,7 +7,7 @@
 
 **2026**
 
-<img src="image0.png" width="500">
+<img src="image0.png" width="600">
 
 # Содержание
 
